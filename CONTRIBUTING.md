@@ -20,3 +20,6 @@ We've written tests and you can run them to assure the stability of the code, ju
 
 Documentation
 Every chunk of code that may be hard to understand has some comments above it. If you write some new code or change some part of the existing code in a way that it would not be functional without changing it's usages, it needs to be documented.
+
+Regards
+Rishi Dhamija
